@@ -1,1 +1,1 @@
-# graphics-trial
+# AA2016 tema 1
